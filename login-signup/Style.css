@@ -1,0 +1,32 @@
+.box1
+{ 
+  color: white;
+  height: 500px;  
+  width: 480px;
+  background-color: black;
+  margin: auto;
+  opacity: .7;
+  padding: 50px;
+}
+
+.log_img
+{
+    background-image: url("image/login_img.jpg");
+    height: 700px;
+}
+
+.reg_img
+{
+    background-image: url("image/Reg_img.png");
+    height: 600px;
+}
+
+.box2
+{ 
+  color: white;
+  width: 500px;
+  background-color: black;
+  margin: auto 430px;
+  opacity: .6;
+  padding: 40px;
+}
